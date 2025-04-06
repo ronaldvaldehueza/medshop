@@ -1,0 +1,10 @@
+HF Electrical Child Bed 3 Crank (CH19)
+SPECIFICATIONS
+
+Full bed length 2020mm±10mm
+
+Full bed width 980mm±10mm
+
+Height of the bed and the floor (minimum) 490mm ± 10mm
+
+Height of the bed and the floor (maximum) 750mm ± 10mm

@@ -1,0 +1,10 @@
+HF ICU Bed 5 Function (BA868Y-CH)
+SPECIFICATIONS
+
+Overall length 2200 mm ± 20 mm
+
+Overall width 1060 mm ± 10 mm
+
+Minimum height 480 mm ± 10 mm
+
+Maximum height 880 mm ± 10 mm

@@ -1,0 +1,18 @@
+HF Manual Bed 3 Crank (SA636A)
+SPECIFICATION
+
+Overall length 2260mm±20mm
+
+Overall width 980mm±10mm
+
+Minimum height 480mm±10mm
+
+Maximum height 720mm±10mm
+
+DETAILS
+
+Back section up/down
+
+Knee section up/down
+
+Whole bed up/down
